@@ -1,0 +1,13 @@
+name: CO2_Data
+title: CO2_Data
+username:
+account: msl2002
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7861169
+bundleId: 6618322
+url: https://msl2002.shinyapps.io/CO2_Data/
+when: 1670635273.65596
+lastSyncTime: 1670635273.65597
+asMultiple: FALSE
+asStatic: FALSE
